@@ -1,0 +1,8 @@
+{
+  "name": "package_todo_example",
+  "type": "appBlock",
+  "source": {
+    "https": "https://github.com/that-coder/package_todo_example",
+    "ssh": "git@github.com:that-coder/package_todo_example.git"
+  }
+}
